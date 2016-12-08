@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www2.drhaitao.cn/"/>
-  <updated>2016-12-08T10:13:46.000Z</updated>
+  <updated>2016-12-08T14:48:37.000Z</updated>
   <id>http://www2.drhaitao.cn/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www2.drhaitao.cn/harrods-sale-preview/"/>
     <id>http://www2.drhaitao.cn/harrods-sale-preview/</id>
     <published>2016-12-07T11:33:28.000Z</published>
-    <updated>2016-12-08T10:13:46.000Z</updated>
+    <updated>2016-12-08T14:48:37.000Z</updated>
     
     <content type="html"><![CDATA[<p>大牌血拼超级重磅！Harrods官网30% OFF圣诞Sale Preview，12月20日结束，全球直邮，包括中国（自动减VAT + 包关税）！ 参加的大牌包包、钱包、鞋子、衣服、围巾、首饰等全部30% OFF，年度淘好货最佳时机就现在！</p>
 <p><img src="/images/sales/harrods-sale-preview.jpg" alt="Harrods官网30% OFF圣诞Sale Preview"></p>
@@ -42,10 +42,12 @@
     
     </summary>
     
-      <category term="购物" scheme="http://www2.drhaitao.cn/categories/%E8%B4%AD%E7%89%A9/"/>
+      <category term="折扣" scheme="http://www2.drhaitao.cn/categories/%E6%8A%98%E6%89%A3/"/>
     
     
-      <category term="购物" scheme="http://www2.drhaitao.cn/tags/%E8%B4%AD%E7%89%A9/"/>
+      <category term="Harrods" scheme="http://www2.drhaitao.cn/tags/Harrods/"/>
+    
+      <category term="折扣" scheme="http://www2.drhaitao.cn/tags/%E6%8A%98%E6%89%A3/"/>
     
   </entry>
   

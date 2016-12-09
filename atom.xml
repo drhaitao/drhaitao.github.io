@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>海淘博士</title>
-  <subtitle>海淘指南</subtitle>
+  <subtitle>你的海淘指南</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www2.drhaitao.cn/"/>
-  <updated>2016-12-08T14:48:37.000Z</updated>
-  <id>http://www2.drhaitao.cn/</id>
+  <link href="http://www.yuxiau.com/"/>
+  <updated>2016-12-09T09:58:29.000Z</updated>
+  <id>http://www.yuxiau.com/</id>
   
   <author>
     <name>海淘博士</name>
@@ -17,20 +17,20 @@
   
   <entry>
     <title>Harrods官网30% OFF圣诞Sale Preview</title>
-    <link href="http://www2.drhaitao.cn/harrods-sale-preview/"/>
-    <id>http://www2.drhaitao.cn/harrods-sale-preview/</id>
+    <link href="http://www.yuxiau.com/harrods-sale-preview/"/>
+    <id>http://www.yuxiau.com/harrods-sale-preview/</id>
     <published>2016-12-07T11:33:28.000Z</published>
-    <updated>2016-12-08T14:48:37.000Z</updated>
+    <updated>2016-12-09T09:58:29.000Z</updated>
     
     <content type="html"><![CDATA[<p>大牌血拼超级重磅！Harrods官网30% OFF圣诞Sale Preview，12月20日结束，全球直邮，包括中国（自动减VAT + 包关税）！ 参加的大牌包包、钱包、鞋子、衣服、围巾、首饰等全部30% OFF，年度淘好货最佳时机就现在！</p>
 <p><img src="/images/sales/harrods-sale-preview.jpg" alt="Harrods官网30% OFF圣诞Sale Preview"></p>
-<p>【<a href="http://bit.ly/1TPpLi8" rel="external nofollow noopener noreferrer" target="_blank">Harrods官网直达链接</a>】</p>
-<p>【<a href="http://bit.ly/1Ot3VRb" rel="external nofollow noopener noreferrer" target="_blank">Harrods女鞋直达页面</a>】</p>
-<p>【<a href="http://bit.ly/1Ot4H0H" rel="external nofollow noopener noreferrer" target="_blank">Harrods男鞋直达页面</a>】</p>
-<p>【<a href="http://bit.ly/1Ot3K8F" rel="external nofollow noopener noreferrer" target="_blank">大牌包包直达页面</a>】</p>
-<p>【<a href="http://bit.ly/1Ot3RB6" rel="external nofollow noopener noreferrer" target="_blank">大牌钱包直达页面</a>】</p>
-<p>【<a href="http://bit.ly/1NV1lC3" rel="external nofollow noopener noreferrer" target="_blank">Longchamp包包直达页面</a>】</p>
-<p>【<a href="http://bit.ly/2gDk8VK" rel="external nofollow noopener noreferrer" target="_blank">Burberry巴宝莉直达页面</a>】</p>
+<p>【<a href="http://bit.ly/1TPpLi8" rel="external nofollow" target="_blank">Harrods官网直达链接</a>】</p>
+<p>【<a href="http://bit.ly/1Ot3VRb" rel="external nofollow" target="_blank">Harrods女鞋直达页面</a>】</p>
+<p>【<a href="http://bit.ly/1Ot4H0H" rel="external nofollow" target="_blank">Harrods男鞋直达页面</a>】</p>
+<p>【<a href="http://bit.ly/1Ot3K8F" rel="external nofollow" target="_blank">大牌包包直达页面</a>】</p>
+<p>【<a href="http://bit.ly/1Ot3RB6" rel="external nofollow" target="_blank">大牌钱包直达页面</a>】</p>
+<p>【<a href="http://bit.ly/1NV1lC3" rel="external nofollow" target="_blank">Longchamp包包直达页面</a>】</p>
+<p>【<a href="http://bit.ly/2gDk8VK" rel="external nofollow" target="_blank">Burberry巴宝莉直达页面</a>】</p>
 <p><strong>折扣获取方法</strong></p>
 <p>会员登录后加进购物车自动显示折扣，不是会员也可以临时注册。注册时一定要勾选Enrol for a new Rewards Card. 全球直邮，包括中国，邮寄欧盟外自动减VAT增值税 + 包关税，结算价就是到手价！</p>
 <p>注意： 图片下方标注FASHION SALE PREVIEW的都能折，时常会有没有标注的也能折！所以建议大家看到喜欢的都加进购物车试一试！</p>
@@ -42,12 +42,12 @@
     
     </summary>
     
-      <category term="折扣" scheme="http://www2.drhaitao.cn/categories/%E6%8A%98%E6%89%A3/"/>
+      <category term="折扣" scheme="http://www.yuxiau.com/categories/%E6%8A%98%E6%89%A3/"/>
     
     
-      <category term="Harrods" scheme="http://www2.drhaitao.cn/tags/Harrods/"/>
+      <category term="Harrods" scheme="http://www.yuxiau.com/tags/Harrods/"/>
     
-      <category term="折扣" scheme="http://www2.drhaitao.cn/tags/%E6%8A%98%E6%89%A3/"/>
+      <category term="折扣" scheme="http://www.yuxiau.com/tags/%E6%8A%98%E6%89%A3/"/>
     
   </entry>
   

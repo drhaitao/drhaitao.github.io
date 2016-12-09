@@ -1,0 +1,6 @@
+a[rel^="external"]:after{content:"\f08e";display:inline-block;font-family:FontAwesome;font-style:normal;font-weight:normal;padding-left:3px;text-decoration:none;}
+a[href^="http://www.drhaitao.cn"]:after,a.no_icon:after{content:""!important;padding-left:0;}
+a[href^="https://www.drhaitao.cn"]:after,a.no_icon:after{content:""!important;padding-left:0;}
+.widget a:after{content:""!important;padding-left:0;}
+a[href^="https://plus.google"]:after,a.no_icon:after{content:""!important;padding-left:0;}
+a[href^="mailto"]:after,a.no_icon:after{content:""!important;padding-left:0;}

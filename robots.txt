@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: /404.html
 
-Sitemap: http://www2.drhaitao.cn/sitemap.xml
+Sitemap: http://www.drhaitao.cn/sitemap.xml

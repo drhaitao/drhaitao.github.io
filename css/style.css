@@ -30,7 +30,7 @@ html,body,#container{height:100%;}
 ::selection{background:#006bde;color:#fff;}
 body{background:#eaeaea;font:14px "Titillium Web" , "Helvetica Neue" , Helvetica, Arial, "Microsoft Yahei" , sans-serif;-webkit-text-size-adjust:100%;}
 code{background-color:#f8f8f8;border-radius:2px;color:#e96900;font-family:Source Code Pro,Consolas,Monaco,Menlo,Consolas,monospace;font-size:.8em;margin:0 2px;padding:3px 5px;}
-.container{padding:0 20px;position:relative;}
+.container{background-image:url(images/header-background.jpg);padding:0 20px;position:relative;}
 .container-inner{margin:0 auto;max-width:1120px;min-width:320px;width:100%;}
 .container-inner:before,.container-inner:after{content:"";display:table;}
 .container-inner:after{clear:both;}
